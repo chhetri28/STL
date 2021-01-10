@@ -43,9 +43,9 @@ class Vector{
     }
 };
 int main(){
-    OJ;
-    FIO;
-    Vector v;
-    v.push_back(4);
+    // OJ;
+    // FIO;
+    // Vector v;
+    // v.push_back(4);
     
 }
